@@ -5,10 +5,10 @@
 Created a working password generator that took in user input through a series of prompts.
 
 ## Screenshot:
-![screenshot](./assets/Screenshot_of_application.png)
+![screenshot](Screenshot_of_application.png)
 
 ## Link to App
-[link](https://lwalker107.github.io/Password_Generator/)
+[link](https://lwalker107.github.io/Password-Generator-Landen/)
 
 ## Tutor Help
 
